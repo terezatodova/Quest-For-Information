@@ -1,0 +1,874 @@
+fileFormatVersion: 2
+guid: 5607df2fdb8180b489890cca015407a5
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jmc2obj_banner-banner_base_black
+    second: {fileID: 2100000, guid: 82ee3157de79514458658481a046086b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jmc2obj_banner-banner_base_gray
+    second: {fileID: 2100000, guid: ab60d38b00b263940a159326fd29be20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jmc2obj_banner-banner_base_green
+    second: {fileID: 2100000, guid: 514a29ee57a56c746b6f3a431c52ab8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jmc2obj_banner-banner_base_white
+    second: {fileID: 2100000, guid: 27b6317fce1750849b0ad0a27e69e042, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-acacia_door_bottom
+    second: {fileID: 2100000, guid: 9b80528d5e092b748bed8e708e4a1f8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-acacia_door_top
+    second: {fileID: 2100000, guid: 1104f6670c47e9748a89296cfe13db55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-acacia_log
+    second: {fileID: 2100000, guid: 1220c549cdf48384aa7c1f933082367c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-acacia_planks
+    second: {fileID: 2100000, guid: df8e40f3203123144bb5579a308214d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-acacia_trapdoor
+    second: {fileID: 2100000, guid: bef046ec801934245a4721ca63048471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-azalea_plant
+    second: {fileID: 2100000, guid: f84f26289f1b5e14faf4433632d3ece7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-azalea_side
+    second: {fileID: 2100000, guid: 9ac6008abb48161499debedd02a03640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-azalea_top
+    second: {fileID: 2100000, guid: 5dfc1cf65b309ed4f9d05cce03e32034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-barrel_bottom
+    second: {fileID: 2100000, guid: d52543bd9a2364c4bb40a9a09be7b47d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-barrel_side
+    second: {fileID: 2100000, guid: 11c25e6bff7b74e4784764c9d1b153e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-birch_door_bottom
+    second: {fileID: 2100000, guid: 547701595c328cc43ad2e6c2c03e08d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-birch_door_top
+    second: {fileID: 2100000, guid: 6d8323dfc0fa82841ae036c7ba4a0f87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-birch_planks
+    second: {fileID: 2100000, guid: 2079818db5d62744480407324971c39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-black_concrete
+    second: {fileID: 2100000, guid: 9e7ff7eda63b50544be4be27c2a46b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-black_wool
+    second: {fileID: 2100000, guid: 37517d7a1734ffc4285e883fcf5e6c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-blue_concrete
+    second: {fileID: 2100000, guid: 5804127e9dcccb04c86461fc59be9f7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-blue_terracotta
+    second: {fileID: 2100000, guid: 7b2dae1f134d21b4b9536df2cdebbfd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-bone_block_side
+    second: {fileID: 2100000, guid: bc76550e1fa6d9540b3cc213a9c157ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-bookshelf
+    second: {fileID: 2100000, guid: d323735f23863ab418d7329ba87ec96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-brown_wool
+    second: {fileID: 2100000, guid: 05432dc316684e44e91e82f807bc8a5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-calcite
+    second: {fileID: 2100000, guid: 0cc4985efea76524bb7af636aa8645d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cauldron_inner
+    second: {fileID: 2100000, guid: 80d704b2da771ef4b9e61aa2186e5c20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cauldron_side
+    second: {fileID: 2100000, guid: 199b4789cd32b344086f626464dd2ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cauldron_top
+    second: {fileID: 2100000, guid: 5a275462d4280ea48a3d82dd8899486a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-chain
+    second: {fileID: 2100000, guid: 828e4720d43eb8a468369bce4cf6c7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-chiseled_stone_bricks
+    second: {fileID: 2100000, guid: 8e1fc042a8f769c41836dc2c86a8359a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cobblestone
+    second: {fileID: 2100000, guid: 6532e26ceb1fdbe41ad5464d6348d758, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-composter_bottom
+    second: {fileID: 2100000, guid: ce2c3e5eebd399641ae66347b21607d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-composter_side
+    second: {fileID: 2100000, guid: 8e99b6b0c012e1f4d8ed5742bd140aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-composter_top
+    second: {fileID: 2100000, guid: 4fcde7a60ba43e442890d52f363348b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cornflower
+    second: {fileID: 2100000, guid: 11e5b74dd2bf3be45bbb6ef7663f4a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-crimson_planks
+    second: {fileID: 2100000, guid: c7a36904e9217834aa7dd281f9e055b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-cyan_terracotta
+    second: {fileID: 2100000, guid: 641b97d4c80862a4b9d7fe52759f5e07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dandelion
+    second: {fileID: 2100000, guid: 496bea3d9a1f9f24ea8af7ba64051f74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_oak_door_bottom
+    second: {fileID: 2100000, guid: 7798e3c1a08720e41913f4c2b220fb4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_oak_door_top
+    second: {fileID: 2100000, guid: e5ebad7a353ed974d96ef7c56e6ae6d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_oak_planks
+    second: {fileID: 2100000, guid: 3969d2d8e1352ae4cb4f24b2d774df78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dark_prismarine
+    second: {fileID: 2100000, guid: 7bee289d8afd8cd4b99ac6eec7be1e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-daylight_detector_inverted_top
+    second: {fileID: 2100000, guid: 5f6428a30cb340442acd48e0353d86de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-daylight_detector_side
+    second: {fileID: 2100000, guid: 994247a557e67db489ec33b858127fd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dead_brain_coral_fan
+    second: {fileID: 2100000, guid: 794010cd754f5f84ea45128004317a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dead_bubble_coral_fan
+    second: {fileID: 2100000, guid: f39580bad9012234da50b85be5501140, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dead_horn_coral
+    second: {fileID: 2100000, guid: e9f1e3f27db83974b813758fa2e1af16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dead_tube_coral_fan
+    second: {fileID: 2100000, guid: edfbe759ec8631b44b442377046ef01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-deepslate_bricks
+    second: {fileID: 2100000, guid: d3dcf7520b122ca4ba72da5ea771598d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-deepslate_tiles
+    second: {fileID: 2100000, guid: f9d3f4a5789826f4da3465648613e284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-diorite
+    second: {fileID: 2100000, guid: 69992edd2aa4d1b43b51a6b0163664d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt
+    second: {fileID: 2100000, guid: c497354ebeb4cd746bc9a2b07232b5f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt_path_side
+    second: {fileID: 2100000, guid: 892fd8beb1e57aa4e8ec546aefe90e67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dirt_path_top
+    second: {fileID: 2100000, guid: a1521f3b517223347b5369475ef7082a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-dispenser_front
+    second: {fileID: 2100000, guid: 0377453d781003f4982923426c483bf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-flowering_azalea_side
+    second: {fileID: 2100000, guid: 1cad2da67ffbf4542bcbed365aa21226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-flowering_azalea_top
+    second: {fileID: 2100000, guid: c0b0c40c3fce4a542818071c524da6e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-furnace_side
+    second: {fileID: 2100000, guid: 14b50f68e830a7b40847506669ade94d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-furnace_top
+    second: {fileID: 2100000, guid: 6c741a81add2ed64aa9100abcc202aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-glass
+    second: {fileID: 2100000, guid: 995af721d5925344eb0ee7c48950fa1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-glass_pane_top
+    second: {fileID: 2100000, guid: fab2201dd504cbb4b8be80527843a819, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-grass_block_side
+    second: {fileID: 2100000, guid: 1a3ed9f4397414a44a34416125817c2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-grass_block_top
+    second: {fileID: 2100000, guid: 89d0689ebea59434bbd20d119e9ddc1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-gravel
+    second: {fileID: 2100000, guid: 986472df6f2c67a4eae45c35660ae60e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-gray_concrete
+    second: {fileID: 2100000, guid: fe810cb6ce68d8549913df77c5151f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-gray_wool
+    second: {fileID: 2100000, guid: 4b88234297189d446b38154d6dc8dc8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-green_concrete
+    second: {fileID: 2100000, guid: c89b77d0baea6244ead290d8d836ddc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-green_terracotta
+    second: {fileID: 2100000, guid: baa711acae65c814c9e4425e156d9614, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-hopper_inside
+    second: {fileID: 2100000, guid: 2086c90a6888aad4eaae69332dd8e186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-hopper_outside
+    second: {fileID: 2100000, guid: 53bbbac7c8bdc024fbb8221493715482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-hopper_top
+    second: {fileID: 2100000, guid: 25814218ea5222a4fa3c17a2e4535313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-iron_bars
+    second: {fileID: 2100000, guid: 7cb40cb408de46244a89b0ca8af9700b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-iron_block
+    second: {fileID: 2100000, guid: c77db12c9c7782a48bfbc8ece8e934ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-iron_door_bottom
+    second: {fileID: 2100000, guid: 9790077507d453440a8eb4c81fbf63a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-iron_door_top
+    second: {fileID: 2100000, guid: 20406a67dd258314e96a8c96510b6a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-iron_trapdoor
+    second: {fileID: 2100000, guid: dbf9b7a7d311e81489e37132070c09db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-jungle_door_bottom
+    second: {fileID: 2100000, guid: d3de4f075f5d36f47bd3463ee6a3c456, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-jungle_door_top
+    second: {fileID: 2100000, guid: 5f9a3f84b7ff4674bb02521b760f668c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-jungle_log
+    second: {fileID: 2100000, guid: c909e6a5daf1e304aa031111024568f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-jungle_log_top
+    second: {fileID: 2100000, guid: 262b1849d0dbfdd449d65f1f9ca7d801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-jungle_planks
+    second: {fileID: 2100000, guid: 4bf8d06199e0ff842abd66ae70b68993, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-lantern
+    second: {fileID: 2100000, guid: 21373e4ad45caf64d8ec2bce0291bef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-large_fern_bottom
+    second: {fileID: 2100000, guid: 3d3987f0dcfb1a44e8103bc8ead54787, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-large_fern_top
+    second: {fileID: 2100000, guid: e2acec9bd0ab8e6468b068012c611208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-light_gray_concrete
+    second: {fileID: 2100000, guid: 3d510f926cc93184caa437705f2aa274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-light_gray_stained_glass
+    second: {fileID: 2100000, guid: 3f8549b9decd9b94583384d4876d70a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-light_gray_stained_glass_pane_top
+    second: {fileID: 2100000, guid: 1400d09486815ea4c933dce61af68aee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-light_gray_wool
+    second: {fileID: 2100000, guid: 362d084615b36df4a8aba4a7157d3d2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-lily_of_the_valley
+    second: {fileID: 2100000, guid: 1a3aa19cce37faf419ea5618ac60378b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-loom_front
+    second: {fileID: 2100000, guid: cba706b00295887488099d7e4ce2f749, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-loom_side
+    second: {fileID: 2100000, guid: 55e675d53ddc4f342b27a5ba5a3f9545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-loom_top
+    second: {fileID: 2100000, guid: 1cdf90919d565544483ec243ae395799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-nether_bricks
+    second: {fileID: 2100000, guid: 9882b9740b3999a418b55082b8c222bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_leaves
+    second: {fileID: 2100000, guid: 9106696b83ce0b04886c3570f54c735f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_log
+    second: {fileID: 2100000, guid: 2c5c3d218c09bc44bb0208b73598b5c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_log_top
+    second: {fileID: 2100000, guid: 82382c15c38ed264993ae2008c5f0da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oak_planks
+    second: {fileID: 2100000, guid: a7c734f1403c8c5479675dd7360b5b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-oxidized_cut_copper
+    second: {fileID: 2100000, guid: 9529a94be6716ab42a369d0602d744ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-pc
+    second: {fileID: 2100000, guid: c75d02ec4dc76794198fe00535b11a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-podzol_top
+    second: {fileID: 2100000, guid: 8903fe748d487c64eafe264103e5fa8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-polished_andesite
+    second: {fileID: 2100000, guid: e188245992ff71b4c8726b96ba837996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-polished_deepslate
+    second: {fileID: 2100000, guid: ff033943e407771438cd74b59ab08ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-polished_diorite
+    second: {fileID: 2100000, guid: 3edf2b95d6cc8d541a7c59fbb4cea0ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-poppy
+    second: {fileID: 2100000, guid: 3b3eb2cda42454d4886f2adbb618608b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-prismarine
+    second: {fileID: 2100000, guid: 2d5c071ccb411b144b1a4f0f4365e3bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-purpur_block
+    second: {fileID: 2100000, guid: d3ee29f433e40064db2fbcaf14292108, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-quartz_block_bottom
+    second: {fileID: 2100000, guid: b8f32e9a6ce88d343957eea57e24a92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-quartz_block_side
+    second: {fileID: 2100000, guid: 4f0a410a83ed4b74db1f588f505013e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-quartz_block_top
+    second: {fileID: 2100000, guid: a521232adad3c244c9f26341b9a13534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-quartz_bricks
+    second: {fileID: 2100000, guid: 39f0426471c24f4438def5d5a4da5757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-quartz_pillar
+    second: {fileID: 2100000, guid: f32b99aedececdc408cb3187b7286df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-red_nether_bricks
+    second: {fileID: 2100000, guid: 1f78e3b865e7f2243b61eef7eab9b1b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-red_sandstone
+    second: {fileID: 2100000, guid: 8b336bb2c3b48584a81ea6edbaa1e67c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-red_sandstone_bottom
+    second: {fileID: 2100000, guid: bdfabb0cb2bc2504fa8a695ed86ff451, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-red_sandstone_top
+    second: {fileID: 2100000, guid: 9943b787add28b54e8bd8c9ba2955caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-red_wool
+    second: {fileID: 2100000, guid: c30f9cc5af70517498b18f1ab56ed1b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-redstone_lamp
+    second: {fileID: 2100000, guid: 85c497d352e25b54a98c8a781981d296, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-rooted_dirt
+    second: {fileID: 2100000, guid: 17d3b8c2c2b3bce42b5e454f49820a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-sea_lantern
+    second: {fileID: 2100000, guid: 5cd38fa0309c18b4896fcb573eec8f90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-smooth_stone
+    second: {fileID: 2100000, guid: 99d1aff8b163f4742ab5aba96fc600d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-smooth_stone_slab_side
+    second: {fileID: 2100000, guid: 507fce9d292553a488209511ca0641fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_door_bottom
+    second: {fileID: 2100000, guid: 8df2a1761fed3324c8950d2e400e6922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_door_top
+    second: {fileID: 2100000, guid: 8f9efdf8d680187499cb40392b6aaf11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_leaves
+    second: {fileID: 2100000, guid: 8741e15baf981e84eb04ca7327490c15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_log
+    second: {fileID: 2100000, guid: aa991ba2b17f14442ad992683d6f02ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_log_top
+    second: {fileID: 2100000, guid: 9a07816ba41c02f418d1ed1c29f3bd90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-spruce_planks
+    second: {fileID: 2100000, guid: 7d5d4df7d6088bc458d04436775d8377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stone
+    second: {fileID: 2100000, guid: 97615fd21a49ed6478c9667d9fdf08b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stone_bricks
+    second: {fileID: 2100000, guid: d5cf8f483aabb264dab957fd03d49498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stripped_oak_log
+    second: {fileID: 2100000, guid: 10dc0120083999743a81fdde51e7bba2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-stripped_oak_log_top
+    second: {fileID: 2100000, guid: 8f7c04c2d67f081429f479001e964c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tall_grass_bottom
+    second: {fileID: 2100000, guid: a4f1fde9cdbe4da4aad0301a287bf27b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tall_grass_top
+    second: {fileID: 2100000, guid: 8fa9be8c52fae814ea2629df1fe4e74a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-terracotta
+    second: {fileID: 2100000, guid: 127673899fb3019479ea2b3e4ea62f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tinted_glass
+    second: {fileID: 2100000, guid: 16869e6a23bcecf45b0e6d6a3b1139b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-torch
+    second: {fileID: 2100000, guid: 2893022b61faab74896e84c9831da780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-tuff
+    second: {fileID: 2100000, guid: fae78ba7daee2b24980fa1bd0ceca51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-vine
+    second: {fileID: 2100000, guid: fbe35052bb90fc948a0ffc1053046052, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-wall_torch_modern
+    second: {fileID: 2100000, guid: d7addbd209fc6604d9bc1553794b9438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-warped_planks
+    second: {fileID: 2100000, guid: fdc9631564c579646a037f916cea7fc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-water_flow
+    second: {fileID: 2100000, guid: a2013d9c2bc3f5b4c829dc5f83cb22ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-water_still
+    second: {fileID: 2100000, guid: 81c52951e54abc045aae5c346ecd0e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-white_concrete
+    second: {fileID: 2100000, guid: aa74d7973b6297d49a7ec7351fb65685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-white_stained_glass
+    second: {fileID: 2100000, guid: f2a667dcd1c05034d94326ff2c49fcbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-white_terracotta
+    second: {fileID: 2100000, guid: 5fce5dbb0f45bff4598954a37a080322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-yellow_stained_glass
+    second: {fileID: 2100000, guid: 0590099468f141544a257b8744024a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_block-yellow_stained_glass_pane_top
+    second: {fileID: 2100000, guid: 224dee2116121b7439324605725abbd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-signs-birch
+    second: {fileID: 2100000, guid: 90c4998056b6d764a9f9dee3f29d6834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-signs-dark_oak
+    second: {fileID: 2100000, guid: c716c99b635e78840bc534832adf6571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-signs-oak
+    second: {fileID: 2100000, guid: 622bef740690f154b86963bef360b5b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-signs-warped
+    second: {fileID: 2100000, guid: 93f776cf191fc8c4c99459c27ec58fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-skeleton-skeleton
+    second: {fileID: 2100000, guid: ca9410dbb73beab4da16fd5091fbb225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: minecraft_entity-skeleton-wither_skeleton
+    second: {fileID: 2100000, guid: 0d026cb410f212640b65483c2ff4e72b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

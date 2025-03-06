@@ -1,0 +1,25 @@
+Unity packages added and used in the project
+
+XRInteractionToolkit -> from Package Manager in unity
+
+Meta Voice SDK
+https://assetstore.unity.com/packages/tools/integration/meta-voice-sdk-immersive-voice-commands-264555
+
+Outline
+https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488
+
+Keyboard
+Black Whale Studio - VR keyboard - Unity package
+https://assetstore.unity.com/packages/tools/input-management/vr-keyboard-xri-poke-hands-support-256409
+
+Anti aliasing
+https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fxaa-fast-approximate-anti-aliasing-3590
+
+Assets for lobby room
+https://assetstore.unity.com/packages/3d/environments/sci-fi/adventure-game-environment-pack-urp-246189
+
+Robot for lobby room
+https://assetstore.unity.com/packages/3d/characters/robots/robot-sphere-136226
+
+Assets for NPC characters
+https://assetstore.unity.com/packages/3d/characters/hypercasual-simple-female-male-characters-209163

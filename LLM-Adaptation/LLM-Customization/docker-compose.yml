@@ -1,0 +1,21 @@
+name: llm-adaptation
+
+services:
+  unsloth-jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    runtime: nvidia
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./workspace:/workspace
+    environment:
+      - JUPYTER_ENABLE_LAB=true
+    command: >
+      jupyter-lab --ip=0.0.0.0 --no-browser --allow-root

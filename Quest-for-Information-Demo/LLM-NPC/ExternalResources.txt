@@ -1,0 +1,7 @@
+Other external resources used in project
+
+Oculus model - Image
+https://learn.gienc.org/course/meta-quest-2-user-guide/meta-quest-2-user-guide
+
+Robot 
+https://sketchfab.com/3d-models/robot-from-the-series-love-death-and-robots-3c2c43c8737341e5816c61634782373a#download

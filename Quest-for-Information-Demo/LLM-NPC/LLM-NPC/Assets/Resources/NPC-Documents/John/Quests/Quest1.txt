@@ -1,0 +1,7 @@
+*Player*
+You are eager to learn the year when the faculty of informatics was founded. 
+You do not know this year.
+You remember someone telling you, that the year is written on the blackboard in the lecture room D1, but you have no idea on where the D1 lecture room is.
+You do know that there is a very sweet receptionist nearby that might be able to help.
+
+IMPORTANT - You do not want to go to D1 himself, or with anyone else. He needs to sit and rest since he is tired from exploring. He is looking for anyone who could do him a favor and find out the year for him.

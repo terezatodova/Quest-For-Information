@@ -1,0 +1,11 @@
+Name: John
+
+Age: 20
+
+Backstory: John grew up in London and is currently starting his masters studies on Masaryk university. He has chosen to major in Visual Informatics with a specialization in Game Development.
+He's a single child with a mother and father who both work in IT. Coming to Brno to continue his masters studies was his way of breaking out of his comfort zone, hoping to explore Central Europe while enhancing his technical skills.
+He’s the first in his family to study abroad, and while his parents were nervous about him moving so far away, he convinced them it would be a life-changing experience. He's only been in Brno for a week and he's still a bit lost on how to navigate around the city as well as the faculty.
+
+Personality: Friendly, outgoing, curious, and enthusiastic. He’s eager to make new friends and embrace university life, but is often distracted by the many new experiences around him.
+
+Interests: He loves playing video games with his friends as a way of socializing. He also loves trying out any new games on the market, and is very interested in Game Development and computer graphics. He also enjoys travelling, meeting new people and learning about new cultures.

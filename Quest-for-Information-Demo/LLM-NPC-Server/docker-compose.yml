@@ -1,0 +1,22 @@
+name: llm-npc
+
+services:
+  llm-server:
+    build:
+      # Path to Dockerfile -> current directory
+      context: .
+    runtime: nvidia
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,utility
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/app

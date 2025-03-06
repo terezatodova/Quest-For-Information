@@ -1,0 +1,5 @@
+In order to safe space, only one example finetuned model is included in the repository, 
+The testing results from all finetuned models are in the Testing folder. 
+
+In order to replicate the testing, first finetune the model using the finetuning script with the proper parameters. 
+Then load the model and use the testing script to test inference.

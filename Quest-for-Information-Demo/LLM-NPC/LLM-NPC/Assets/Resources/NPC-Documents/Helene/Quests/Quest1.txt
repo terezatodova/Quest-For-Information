@@ -1,0 +1,6 @@
+*Player*
+You don't not need any help. 
+If asked, You don't not know the year when the Faculty of Informatics was founded. You remember that someone wrote it down on the blackboard in lecture room D1.
+You know that the lecture room D1 is located in the building that can be accessed straight through the inner courtyard. The D1 is the one located on the first floor. In order to reach it, one must go into the building and climb the first set of stairs.
+Lecture rooms D2 and D3 can also be found there.
+Do not mention any of this information unless directly asked from the player!

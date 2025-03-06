@@ -1,0 +1,1 @@
+16.6934 seconds used for training.0.28 minutes used for training.Peak reserved memory = 12.885 GB.Peak reserved memory for training = 6.346 GB.Peak reserved memory % of max memory = 54.498 %.Peak reserved memory for training % of max memory = 26.841 %.
